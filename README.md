@@ -3,9 +3,9 @@
 26/08/2018
 
 This repository was been initially cloned from RepRapPro's repository for the 
-Ormerod 2 printer. I am predonminantly using this as a learning exercise but
+Ormerod 2 printer. I am predominantly using this as a learning exercise but
 hope in the short term to rebuild the PLA kit parts with PETG and resize a few
-to reduce the stress fractures that I've experianced with a recent (old) kit 
+to reduce the stress fractures that I've experienced with a recent (old) kit 
 build. My objectives are different to that of RepRapPro, therefore my ideals 
 are different to their ideals. The changes I have made are not to be
 interpreted as correcting mistakes, merely working to a different set of goals 
@@ -14,16 +14,16 @@ with completely different financial, engineering, and business pressures.
 The work here is currently in stage one. I am currently reverse engineering 
 the presented STL files into parametric FreeCAD files. My plan is as follows:
 
-1. Re-engineer existing STL files back into a parameteric FreeCAD format.
+1. Re-engineer existing STL files back into a parametric FreeCAD format.
 2. Build a basic assembly model to ensure the files are fit fort purpose.
-3. Design parts as needed to incorperate an E3D V6 hot end and Bondtech
+3. Design parts as needed to incorporate an E3D V6 hot end and Bondtech
    Extruder.
-4. Build these parts and assemble the first itteration of my itteration of the
+4. Build these parts and assemble the first iteration of my take on the
    Ormerod 2.
 5. Make the first release of files at this stage.
 6. Carry out a written review of the parts and establish objectives to be 
    achieved before the next release.
-7. Execute the changes with a modifications catagorised into reliability,
+7. Execute the changes with a modifications categorised into reliability,
    part quality, one off build cost, design for ease of build, and/or build 
    rate.
 8. Following release.
