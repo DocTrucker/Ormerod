@@ -4,3 +4,8 @@ gcodes/
 *.g
 *.gcode
 *.orig
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.fcstd3
+*.fcstd4
